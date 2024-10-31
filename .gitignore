@@ -1,0 +1,10 @@
+node_modules
+out
+dist
+logs
+pkg
+*.js
+*.html
+*.json
+._.DS_Store
+*.txt
