@@ -8,3 +8,5 @@ pkg
 *.json
 ._.DS_Store
 *.txt
+.DS_Store
+.gitignore
